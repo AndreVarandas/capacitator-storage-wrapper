@@ -61,5 +61,8 @@
       "pre-commit": "yarn lint:fix && yarn lint",
       "pre-push": "yarn test"
     }
+  },
+  "resolutions": {
+    "os-locale/mem": "^4.0.0"
   }
 }
