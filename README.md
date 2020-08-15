@@ -20,6 +20,14 @@ I needed an easier and faster way to use the capacitator storage plugin.
 
 ### Usage
 
+Install with your favourite package manager:
+
+`npm i @varandas/capacitator-storage-wrapper`
+
+OR
+
+`yarn add @varandas/capacitator-storage-wrapper`
+
 ```typescript
 import Storage from '@varandas/capacitator-storage-wrapper'
 
