@@ -263,10 +263,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@capacitor/core@^2.4.3":
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/@capacitor/core/-/core-2.4.4.tgz#de489734ddf99a24af2f92f4667e46d9adc5c418"
-  integrity sha512-Cc+g2MjHAaAlIotkQUdaZT/A5taGOXBjPK3ehSdezXX/lztp2zaBHFmO87cx0huasiFelFjwzQwY+Rh6soMNdg==
+"@capacitor/core@^2.4.5":
+  version "2.4.5"
+  resolved "https://registry.yarnpkg.com/@capacitor/core/-/core-2.4.5.tgz#4532e2068224edf8684d07ea088c62adb27ccb92"
+  integrity sha512-3GfDAN3s8ajglbn0X6wS+1mtmLwtaBNyvrje3qZ7mzRGVOMWLlOL+n2EeA9IlhMyp8KbQFwXr7gKUk6DjMAKUQ==
   dependencies:
     tslib "^1.9.0"
 
