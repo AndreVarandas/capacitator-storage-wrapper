@@ -49,7 +49,7 @@
     "lib/**/*"
   ],
   "dependencies": {
-    "@capacitor/core": "^2.4.8"
+    "@capacitor/core": "^2.4.9"
   },
   "config": {
     "commitizen": {
